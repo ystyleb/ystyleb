@@ -12,5 +12,6 @@ I build browser utilities and AI tools for creative projects. The products below
 | [PawMotif](https://pawmotif.com/) | Create a stylized digital pet portrait from a pet photo. | Review the preview before deciding whether to buy the digital download. This is not a printed product. |
 | [Free Image Merger](https://freeimagemerger.com/) | Combine images side by side, vertically or in a collage using a browser tool. | Images are processed locally. Review the layout and exported image before sharing it. |
 | [MakeItRap](https://makeitrap.com/) | Make a short personalized rap video using a photo, a name and a template. | Video creation uses paid credits. Review the generated result and use images you have permission to share. |
+| [Streakdle](https://streakdle.com/) | Play a free rare-answer browser game: seven prompts, 25 seconds per prompt and unlimited rounds. | No account or download required. This is an independent build, not affiliated with the original Krillion game; rarity scores use players on this site. |
 
 These links lead to the products themselves. This is my creator portfolio, not an independent review or recommendation site.
